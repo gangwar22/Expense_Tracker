@@ -1,0 +1,17 @@
+id,title,amount,category,date,notes
+1,Lunch at Bistro,250.0,Food,2026-09-25,Office lunch with team
+2,Metro Monthly Card,850.0,Travel,2026-09-26,Monthly transit pass recharge
+3,Grocery Shopping,1450.0,Food,2026-09-28,Monthly fruits and vegetables
+4,Electricity Bill,1820.0,Bills,2026-10-02,State power corporation payment
+5,Weekend Movie & Snacks,680.0,Entertainment,2026-10-04,IMAX tickets with popcorn
+6,Sneakers,2899.0,Shopping,2026-10-06,Running shoes festive discount
+7,WiFi Broadband Bill,799.0,Bills,2026-10-08,High-speed fiber monthly plan
+8,Medical Checkup & Vitamins,1150.0,Health,2026-10-10,Routine health tests & supplements
+9,Python & Web Course,1299.0,Education,2026-10-11,Udemy online specialization
+10,Fuel for Car,1500.0,Travel,2026-10-13,Petrol tank refill
+11,Team Evening Snacks,340.0,Food,2026-10-14,Samosa and chai break
+12,Home Essentials,450.0,General,2026-10-15,Cleaning products and stationery
+13,Desk Lamp,899.0,Shopping,2026-10-16,Study LED desk lamp
+14,Mobile Recharge,399.0,Bills,2026-10-17,Prepaid 3-month plan
+15,Dinner with Friends,1650.0,Food,2026-10-17,Weekend dinner at restaurant
+16,Smart Watch,3499.0,Shopping,2026-10-17,Festival deal
